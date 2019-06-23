@@ -1,3 +1,3 @@
 # Python
 
-Learning Python at 1st semester of BMSTU (2017)
+Learning Python at 1st and 2nd semesters of BMSTU (2017)
